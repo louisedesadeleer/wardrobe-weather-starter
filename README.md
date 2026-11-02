@@ -4,7 +4,7 @@ A personal wardrobe app + an outfit newsletter based on the weather.
 
 Upload your clothes, make outfit boards, swipe to tag their temperature, then generate an email showing what to wear. Built with SwiftUI and Python. Example clothes included; no personal wardrobe data or accounts included.
 
-![Uploading CleanShot 2026-11-02 at 16.07.08.gif…]()
+![Uploading CleanShot 2026-11-02 at 16.41.02@2x.png…]()
 
 ## Try the newsletter first
 
