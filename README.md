@@ -37,6 +37,8 @@ python newsletter.py --wardrobe private/wardrobe.json --config private/config.js
 
 For one day: add `--days 1`. The full backup includes local photos and item IDs; the older compact newsletter export does not contain enough information for item-repeat rules.
 
+Example clothes are automatically excluded from real editions, including custom boards that still use example pieces. Upload and tag your own outfits first.
+
 **Transfer is manual.** Export again after adding clothes, creating boards, tagging weather or logging wears. This is a personal starter, not a synced cloud service. The app's calendar forecast is currently fixed to Lisbon; changing the Python config changes newsletter weather only.
 
 ## How it chooses

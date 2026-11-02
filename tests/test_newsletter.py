@@ -52,6 +52,10 @@ class NewsletterTests(unittest.TestCase):
             self.assertNotIn('Example outfit',html);self.assertIn('warm-week demo',html)
             msg=BytesParser(policy=policy.default).parsebytes((p/'newsletter.eml').read_bytes())
             self.assertEqual(len([x for x in msg.walk() if x.get_content_type()=='image/jpeg']),7)
+    def test_real_edition_never_uses_example_clothes(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            with self.assertRaisesRegex(ValueError,'example clothes are excluded'):
+                n.generate(self.backup,n.demo_forecast(),self.config,Path(tmp),demo=False)
     def test_demo_path_traversal_rejected(self):
         with self.assertRaises(ValueError):n.load_image('demo:../../secret',{})
 

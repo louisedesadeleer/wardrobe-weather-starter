@@ -2,7 +2,7 @@
 
 Checked 2 November 2026:
 
-- Eleven Python tests pass: daylight filtering, missing forecast values, weekly repeat limits, exhausted wardrobes, stale weather tags, categories, worn history, rain rules, embedded email images, path rejection, SMTP dry run and recipient/duplicate handling.
+- Twelve Python tests pass: daylight filtering, missing forecast values, weekly repeat limits, exhausted wardrobes, stale weather tags, categories, worn history, rain rules, embedded email images, path rejection, demo-data exclusion, SMTP dry run and recipient/duplicate handling.
 - Thirteen Swift core test groups pass.
 - Xcode simulator build succeeds (Xcode 27.1 installed locally, iOS 17 deployment target).
 - The example newsletter renders with seven illustrated outfits; HTML preview inspected.

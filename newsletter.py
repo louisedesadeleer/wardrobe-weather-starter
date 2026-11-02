@@ -146,6 +146,10 @@ def render_board(outfit, photos):
 def generate(backup, forecast, config, out, count=7, demo=False, recipient=None):
     library=backup.get('library',backup)
     if 'items' not in library: raise ValueError('Use Prepare full backup, not the older compact newsletter export')
+    if not demo:
+        demo_ids = {i['id'] for i in library['items'] if i.get('source') == 'demo'}
+        library = dict(library, outfits=[o for o in library['outfits'] if o.get('source') != 'demo' and not (set(o.get('itemIds',[])) & demo_ids)])
+        if not library['outfits']: raise ValueError('Add your own outfits first; example clothes are excluded from real editions')
     days=daytime_days(forecast,config.get('start_hour',9))[:count]
     if not days: raise ValueError('No forecast days')
     picks=choose(library,days,config);out.mkdir(parents=True,exist_ok=True)
