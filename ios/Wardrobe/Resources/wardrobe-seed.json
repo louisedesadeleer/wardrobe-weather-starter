@@ -1,0 +1,2211 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "demo-cold-top-0",
+      "name": "Example cold top 1",
+      "brand": "Example",
+      "category": "Top",
+      "colors": "#f3dfb7",
+      "material": "",
+      "image": "demo:demo-cold-top-0",
+      "photoHash": "demo-cold-top-0",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-cold-top-1",
+      "name": "Example cold top 2",
+      "brand": "Example",
+      "category": "Top",
+      "colors": "#acbcc5",
+      "material": "",
+      "image": "demo:demo-cold-top-1",
+      "photoHash": "demo-cold-top-1",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-cold-top-2",
+      "name": "Example cold top 3",
+      "brand": "Example",
+      "category": "Top",
+      "colors": "#d79988",
+      "material": "",
+      "image": "demo:demo-cold-top-2",
+      "photoHash": "demo-cold-top-2",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-cold-top-3",
+      "name": "Example cold top 4",
+      "brand": "Example",
+      "category": "Top",
+      "colors": "#535d59",
+      "material": "",
+      "image": "demo:demo-cold-top-3",
+      "photoHash": "demo-cold-top-3",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-cold-top-4",
+      "name": "Example cold top 5",
+      "brand": "Example",
+      "category": "Top",
+      "colors": "#eee8dd",
+      "material": "",
+      "image": "demo:demo-cold-top-4",
+      "photoHash": "demo-cold-top-4",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-cold-top-5",
+      "name": "Example cold top 6",
+      "brand": "Example",
+      "category": "Top",
+      "colors": "#b5adca",
+      "material": "",
+      "image": "demo:demo-cold-top-5",
+      "photoHash": "demo-cold-top-5",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-cold-top-6",
+      "name": "Example cold top 7",
+      "brand": "Example",
+      "category": "Top",
+      "colors": "#b7bf9e",
+      "material": "",
+      "image": "demo:demo-cold-top-6",
+      "photoHash": "demo-cold-top-6",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-cold-top-7",
+      "name": "Example cold top 8",
+      "brand": "Example",
+      "category": "Top",
+      "colors": "#c69978",
+      "material": "",
+      "image": "demo:demo-cold-top-7",
+      "photoHash": "demo-cold-top-7",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-cold-bottom-0",
+      "name": "Example cold bottom 1",
+      "brand": "Example",
+      "category": "Bottom",
+      "colors": "",
+      "material": "",
+      "image": "demo:demo-cold-bottom-0",
+      "photoHash": "demo-cold-bottom-0",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-cold-bottom-1",
+      "name": "Example cold bottom 2",
+      "brand": "Example",
+      "category": "Bottom",
+      "colors": "",
+      "material": "",
+      "image": "demo:demo-cold-bottom-1",
+      "photoHash": "demo-cold-bottom-1",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-cold-bottom-2",
+      "name": "Example cold bottom 3",
+      "brand": "Example",
+      "category": "Bottom",
+      "colors": "",
+      "material": "",
+      "image": "demo:demo-cold-bottom-2",
+      "photoHash": "demo-cold-bottom-2",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-cold-bottom-3",
+      "name": "Example cold bottom 4",
+      "brand": "Example",
+      "category": "Bottom",
+      "colors": "",
+      "material": "",
+      "image": "demo:demo-cold-bottom-3",
+      "photoHash": "demo-cold-bottom-3",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-cool-top-0",
+      "name": "Example cool top 1",
+      "brand": "Example",
+      "category": "Top",
+      "colors": "#f3dfb7",
+      "material": "",
+      "image": "demo:demo-cool-top-0",
+      "photoHash": "demo-cool-top-0",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-cool-top-1",
+      "name": "Example cool top 2",
+      "brand": "Example",
+      "category": "Top",
+      "colors": "#acbcc5",
+      "material": "",
+      "image": "demo:demo-cool-top-1",
+      "photoHash": "demo-cool-top-1",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-cool-top-2",
+      "name": "Example cool top 3",
+      "brand": "Example",
+      "category": "Top",
+      "colors": "#d79988",
+      "material": "",
+      "image": "demo:demo-cool-top-2",
+      "photoHash": "demo-cool-top-2",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-cool-top-3",
+      "name": "Example cool top 4",
+      "brand": "Example",
+      "category": "Top",
+      "colors": "#535d59",
+      "material": "",
+      "image": "demo:demo-cool-top-3",
+      "photoHash": "demo-cool-top-3",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-cool-top-4",
+      "name": "Example cool top 5",
+      "brand": "Example",
+      "category": "Top",
+      "colors": "#eee8dd",
+      "material": "",
+      "image": "demo:demo-cool-top-4",
+      "photoHash": "demo-cool-top-4",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-cool-top-5",
+      "name": "Example cool top 6",
+      "brand": "Example",
+      "category": "Top",
+      "colors": "#b5adca",
+      "material": "",
+      "image": "demo:demo-cool-top-5",
+      "photoHash": "demo-cool-top-5",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-cool-top-6",
+      "name": "Example cool top 7",
+      "brand": "Example",
+      "category": "Top",
+      "colors": "#b7bf9e",
+      "material": "",
+      "image": "demo:demo-cool-top-6",
+      "photoHash": "demo-cool-top-6",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-cool-top-7",
+      "name": "Example cool top 8",
+      "brand": "Example",
+      "category": "Top",
+      "colors": "#c69978",
+      "material": "",
+      "image": "demo:demo-cool-top-7",
+      "photoHash": "demo-cool-top-7",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-cool-bottom-0",
+      "name": "Example cool bottom 1",
+      "brand": "Example",
+      "category": "Bottom",
+      "colors": "",
+      "material": "",
+      "image": "demo:demo-cool-bottom-0",
+      "photoHash": "demo-cool-bottom-0",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-cool-bottom-1",
+      "name": "Example cool bottom 2",
+      "brand": "Example",
+      "category": "Bottom",
+      "colors": "",
+      "material": "",
+      "image": "demo:demo-cool-bottom-1",
+      "photoHash": "demo-cool-bottom-1",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-cool-bottom-2",
+      "name": "Example cool bottom 3",
+      "brand": "Example",
+      "category": "Bottom",
+      "colors": "",
+      "material": "",
+      "image": "demo:demo-cool-bottom-2",
+      "photoHash": "demo-cool-bottom-2",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-cool-bottom-3",
+      "name": "Example cool bottom 4",
+      "brand": "Example",
+      "category": "Bottom",
+      "colors": "",
+      "material": "",
+      "image": "demo:demo-cool-bottom-3",
+      "photoHash": "demo-cool-bottom-3",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-mild-top-0",
+      "name": "Example mild top 1",
+      "brand": "Example",
+      "category": "Top",
+      "colors": "#f3dfb7",
+      "material": "",
+      "image": "demo:demo-mild-top-0",
+      "photoHash": "demo-mild-top-0",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-mild-top-1",
+      "name": "Example mild top 2",
+      "brand": "Example",
+      "category": "Top",
+      "colors": "#acbcc5",
+      "material": "",
+      "image": "demo:demo-mild-top-1",
+      "photoHash": "demo-mild-top-1",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-mild-top-2",
+      "name": "Example mild top 3",
+      "brand": "Example",
+      "category": "Top",
+      "colors": "#d79988",
+      "material": "",
+      "image": "demo:demo-mild-top-2",
+      "photoHash": "demo-mild-top-2",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-mild-top-3",
+      "name": "Example mild top 4",
+      "brand": "Example",
+      "category": "Top",
+      "colors": "#535d59",
+      "material": "",
+      "image": "demo:demo-mild-top-3",
+      "photoHash": "demo-mild-top-3",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-mild-top-4",
+      "name": "Example mild top 5",
+      "brand": "Example",
+      "category": "Top",
+      "colors": "#eee8dd",
+      "material": "",
+      "image": "demo:demo-mild-top-4",
+      "photoHash": "demo-mild-top-4",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-mild-top-5",
+      "name": "Example mild top 6",
+      "brand": "Example",
+      "category": "Top",
+      "colors": "#b5adca",
+      "material": "",
+      "image": "demo:demo-mild-top-5",
+      "photoHash": "demo-mild-top-5",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-mild-top-6",
+      "name": "Example mild top 7",
+      "brand": "Example",
+      "category": "Top",
+      "colors": "#b7bf9e",
+      "material": "",
+      "image": "demo:demo-mild-top-6",
+      "photoHash": "demo-mild-top-6",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-mild-top-7",
+      "name": "Example mild top 8",
+      "brand": "Example",
+      "category": "Top",
+      "colors": "#c69978",
+      "material": "",
+      "image": "demo:demo-mild-top-7",
+      "photoHash": "demo-mild-top-7",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-mild-bottom-0",
+      "name": "Example mild bottom 1",
+      "brand": "Example",
+      "category": "Bottom",
+      "colors": "",
+      "material": "",
+      "image": "demo:demo-mild-bottom-0",
+      "photoHash": "demo-mild-bottom-0",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-mild-bottom-1",
+      "name": "Example mild bottom 2",
+      "brand": "Example",
+      "category": "Bottom",
+      "colors": "",
+      "material": "",
+      "image": "demo:demo-mild-bottom-1",
+      "photoHash": "demo-mild-bottom-1",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-mild-bottom-2",
+      "name": "Example mild bottom 3",
+      "brand": "Example",
+      "category": "Bottom",
+      "colors": "",
+      "material": "",
+      "image": "demo:demo-mild-bottom-2",
+      "photoHash": "demo-mild-bottom-2",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-mild-bottom-3",
+      "name": "Example mild bottom 4",
+      "brand": "Example",
+      "category": "Bottom",
+      "colors": "",
+      "material": "",
+      "image": "demo:demo-mild-bottom-3",
+      "photoHash": "demo-mild-bottom-3",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-hot-top-0",
+      "name": "Example hot top 1",
+      "brand": "Example",
+      "category": "Top",
+      "colors": "#f3dfb7",
+      "material": "",
+      "image": "demo:demo-hot-top-0",
+      "photoHash": "demo-hot-top-0",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-hot-top-1",
+      "name": "Example hot top 2",
+      "brand": "Example",
+      "category": "Top",
+      "colors": "#acbcc5",
+      "material": "",
+      "image": "demo:demo-hot-top-1",
+      "photoHash": "demo-hot-top-1",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-hot-top-2",
+      "name": "Example hot top 3",
+      "brand": "Example",
+      "category": "Top",
+      "colors": "#d79988",
+      "material": "",
+      "image": "demo:demo-hot-top-2",
+      "photoHash": "demo-hot-top-2",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-hot-top-3",
+      "name": "Example hot top 4",
+      "brand": "Example",
+      "category": "Top",
+      "colors": "#535d59",
+      "material": "",
+      "image": "demo:demo-hot-top-3",
+      "photoHash": "demo-hot-top-3",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-hot-top-4",
+      "name": "Example hot top 5",
+      "brand": "Example",
+      "category": "Top",
+      "colors": "#eee8dd",
+      "material": "",
+      "image": "demo:demo-hot-top-4",
+      "photoHash": "demo-hot-top-4",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-hot-top-5",
+      "name": "Example hot top 6",
+      "brand": "Example",
+      "category": "Top",
+      "colors": "#b5adca",
+      "material": "",
+      "image": "demo:demo-hot-top-5",
+      "photoHash": "demo-hot-top-5",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-hot-top-6",
+      "name": "Example hot top 7",
+      "brand": "Example",
+      "category": "Top",
+      "colors": "#b7bf9e",
+      "material": "",
+      "image": "demo:demo-hot-top-6",
+      "photoHash": "demo-hot-top-6",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-hot-top-7",
+      "name": "Example hot top 8",
+      "brand": "Example",
+      "category": "Top",
+      "colors": "#c69978",
+      "material": "",
+      "image": "demo:demo-hot-top-7",
+      "photoHash": "demo-hot-top-7",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-hot-bottom-0",
+      "name": "Example hot bottom 1",
+      "brand": "Example",
+      "category": "Bottom",
+      "colors": "",
+      "material": "",
+      "image": "demo:demo-hot-bottom-0",
+      "photoHash": "demo-hot-bottom-0",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-hot-bottom-1",
+      "name": "Example hot bottom 2",
+      "brand": "Example",
+      "category": "Bottom",
+      "colors": "",
+      "material": "",
+      "image": "demo:demo-hot-bottom-1",
+      "photoHash": "demo-hot-bottom-1",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-hot-bottom-2",
+      "name": "Example hot bottom 3",
+      "brand": "Example",
+      "category": "Bottom",
+      "colors": "",
+      "material": "",
+      "image": "demo:demo-hot-bottom-2",
+      "photoHash": "demo-hot-bottom-2",
+      "source": "demo",
+      "importedWears": null
+    },
+    {
+      "id": "demo-hot-bottom-3",
+      "name": "Example hot bottom 4",
+      "brand": "Example",
+      "category": "Bottom",
+      "colors": "",
+      "material": "",
+      "image": "demo:demo-hot-bottom-3",
+      "photoHash": "demo-hot-bottom-3",
+      "source": "demo",
+      "importedWears": null
+    }
+  ],
+  "outfits": [
+    {
+      "id": "demo-cold-outfit-0",
+      "name": "Example outfit 1",
+      "brand": "",
+      "category": "Outfit",
+      "colors": "",
+      "material": "",
+      "image": "",
+      "photoHash": "demo-cold-outfit-0",
+      "pieceNames": "",
+      "itemIds": [
+        "demo-cold-top-0",
+        "demo-cold-bottom-0"
+      ],
+      "missingItems": 0,
+      "layers": [
+        {
+          "id": "29df2840-a165-5150-b895-0b14539ce73c",
+          "itemId": "demo-cold-top-0",
+          "image": "demo:demo-cold-top-0",
+          "centerX": 0.38,
+          "centerY": 0.3,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": -4,
+          "flipped": false
+        },
+        {
+          "id": "32d7b587-9dcf-579d-aca4-23378c4809bc",
+          "itemId": "demo-cold-bottom-0",
+          "image": "demo:demo-cold-bottom-0",
+          "centerX": 0.64,
+          "centerY": 0.7,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": 4,
+          "flipped": false
+        }
+      ],
+      "source": "demo",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "demo-cold-outfit-1",
+      "name": "Example outfit 2",
+      "brand": "",
+      "category": "Outfit",
+      "colors": "",
+      "material": "",
+      "image": "",
+      "photoHash": "demo-cold-outfit-1",
+      "pieceNames": "",
+      "itemIds": [
+        "demo-cold-top-1",
+        "demo-cold-bottom-0"
+      ],
+      "missingItems": 0,
+      "layers": [
+        {
+          "id": "40f47115-e8b6-57eb-9c1a-bed423653b15",
+          "itemId": "demo-cold-top-1",
+          "image": "demo:demo-cold-top-1",
+          "centerX": 0.38,
+          "centerY": 0.3,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": -4,
+          "flipped": false
+        },
+        {
+          "id": "84fc3152-b7f2-556a-a96e-d512772a995d",
+          "itemId": "demo-cold-bottom-0",
+          "image": "demo:demo-cold-bottom-0",
+          "centerX": 0.64,
+          "centerY": 0.7,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": 4,
+          "flipped": false
+        }
+      ],
+      "source": "demo",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "demo-cold-outfit-2",
+      "name": "Example outfit 3",
+      "brand": "",
+      "category": "Outfit",
+      "colors": "",
+      "material": "",
+      "image": "",
+      "photoHash": "demo-cold-outfit-2",
+      "pieceNames": "",
+      "itemIds": [
+        "demo-cold-top-2",
+        "demo-cold-bottom-1"
+      ],
+      "missingItems": 0,
+      "layers": [
+        {
+          "id": "aabf06c1-2cfb-56cb-b4d6-5b0e64df845b",
+          "itemId": "demo-cold-top-2",
+          "image": "demo:demo-cold-top-2",
+          "centerX": 0.38,
+          "centerY": 0.3,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": -4,
+          "flipped": false
+        },
+        {
+          "id": "f7df33f5-dbbf-5e85-add8-7c04130fc956",
+          "itemId": "demo-cold-bottom-1",
+          "image": "demo:demo-cold-bottom-1",
+          "centerX": 0.64,
+          "centerY": 0.7,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": 4,
+          "flipped": false
+        }
+      ],
+      "source": "demo",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "demo-cold-outfit-3",
+      "name": "Example outfit 4",
+      "brand": "",
+      "category": "Outfit",
+      "colors": "",
+      "material": "",
+      "image": "",
+      "photoHash": "demo-cold-outfit-3",
+      "pieceNames": "",
+      "itemIds": [
+        "demo-cold-top-3",
+        "demo-cold-bottom-1"
+      ],
+      "missingItems": 0,
+      "layers": [
+        {
+          "id": "e0054caa-0b5f-5d97-864a-f7c5f13ffcdf",
+          "itemId": "demo-cold-top-3",
+          "image": "demo:demo-cold-top-3",
+          "centerX": 0.38,
+          "centerY": 0.3,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": -4,
+          "flipped": false
+        },
+        {
+          "id": "20ad2f2a-c027-5408-bfe2-b1602f53ca89",
+          "itemId": "demo-cold-bottom-1",
+          "image": "demo:demo-cold-bottom-1",
+          "centerX": 0.64,
+          "centerY": 0.7,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": 4,
+          "flipped": false
+        }
+      ],
+      "source": "demo",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "demo-cold-outfit-4",
+      "name": "Example outfit 5",
+      "brand": "",
+      "category": "Outfit",
+      "colors": "",
+      "material": "",
+      "image": "",
+      "photoHash": "demo-cold-outfit-4",
+      "pieceNames": "",
+      "itemIds": [
+        "demo-cold-top-4",
+        "demo-cold-bottom-2"
+      ],
+      "missingItems": 0,
+      "layers": [
+        {
+          "id": "c45b81bc-9b61-5922-b468-b757711825e3",
+          "itemId": "demo-cold-top-4",
+          "image": "demo:demo-cold-top-4",
+          "centerX": 0.38,
+          "centerY": 0.3,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": -4,
+          "flipped": false
+        },
+        {
+          "id": "de112b46-2a70-5060-b4c9-ffa563753e4d",
+          "itemId": "demo-cold-bottom-2",
+          "image": "demo:demo-cold-bottom-2",
+          "centerX": 0.64,
+          "centerY": 0.7,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": 4,
+          "flipped": false
+        }
+      ],
+      "source": "demo",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "demo-cold-outfit-5",
+      "name": "Example outfit 6",
+      "brand": "",
+      "category": "Outfit",
+      "colors": "",
+      "material": "",
+      "image": "",
+      "photoHash": "demo-cold-outfit-5",
+      "pieceNames": "",
+      "itemIds": [
+        "demo-cold-top-5",
+        "demo-cold-bottom-2"
+      ],
+      "missingItems": 0,
+      "layers": [
+        {
+          "id": "a83beecb-8675-5d87-ab06-e3dc19538f43",
+          "itemId": "demo-cold-top-5",
+          "image": "demo:demo-cold-top-5",
+          "centerX": 0.38,
+          "centerY": 0.3,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": -4,
+          "flipped": false
+        },
+        {
+          "id": "5ea79b7e-023f-5aea-a596-203d3c98fa34",
+          "itemId": "demo-cold-bottom-2",
+          "image": "demo:demo-cold-bottom-2",
+          "centerX": 0.64,
+          "centerY": 0.7,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": 4,
+          "flipped": false
+        }
+      ],
+      "source": "demo",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "demo-cold-outfit-6",
+      "name": "Example outfit 7",
+      "brand": "",
+      "category": "Outfit",
+      "colors": "",
+      "material": "",
+      "image": "",
+      "photoHash": "demo-cold-outfit-6",
+      "pieceNames": "",
+      "itemIds": [
+        "demo-cold-top-6",
+        "demo-cold-bottom-3"
+      ],
+      "missingItems": 0,
+      "layers": [
+        {
+          "id": "bb645ffe-c59a-50b9-88b8-c200b1dc1308",
+          "itemId": "demo-cold-top-6",
+          "image": "demo:demo-cold-top-6",
+          "centerX": 0.38,
+          "centerY": 0.3,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": -4,
+          "flipped": false
+        },
+        {
+          "id": "ad78851b-7e13-5ece-a4d4-eee5a546bfb0",
+          "itemId": "demo-cold-bottom-3",
+          "image": "demo:demo-cold-bottom-3",
+          "centerX": 0.64,
+          "centerY": 0.7,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": 4,
+          "flipped": false
+        }
+      ],
+      "source": "demo",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "demo-cold-outfit-7",
+      "name": "Example outfit 8",
+      "brand": "",
+      "category": "Outfit",
+      "colors": "",
+      "material": "",
+      "image": "",
+      "photoHash": "demo-cold-outfit-7",
+      "pieceNames": "",
+      "itemIds": [
+        "demo-cold-top-7",
+        "demo-cold-bottom-3"
+      ],
+      "missingItems": 0,
+      "layers": [
+        {
+          "id": "f79d7596-2496-5f55-aa3d-3a62c76c765f",
+          "itemId": "demo-cold-top-7",
+          "image": "demo:demo-cold-top-7",
+          "centerX": 0.38,
+          "centerY": 0.3,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": -4,
+          "flipped": false
+        },
+        {
+          "id": "ac5cadce-cc4e-5e40-8694-c11e46ac67c6",
+          "itemId": "demo-cold-bottom-3",
+          "image": "demo:demo-cold-bottom-3",
+          "centerX": 0.64,
+          "centerY": 0.7,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": 4,
+          "flipped": false
+        }
+      ],
+      "source": "demo",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "demo-cool-outfit-0",
+      "name": "Example outfit 9",
+      "brand": "",
+      "category": "Outfit",
+      "colors": "",
+      "material": "",
+      "image": "",
+      "photoHash": "demo-cool-outfit-0",
+      "pieceNames": "",
+      "itemIds": [
+        "demo-cool-top-0",
+        "demo-cool-bottom-0"
+      ],
+      "missingItems": 0,
+      "layers": [
+        {
+          "id": "fc5a5b0d-fbcb-5a13-98e9-142de64e794f",
+          "itemId": "demo-cool-top-0",
+          "image": "demo:demo-cool-top-0",
+          "centerX": 0.38,
+          "centerY": 0.3,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": -4,
+          "flipped": false
+        },
+        {
+          "id": "6526448c-3dd3-5884-b60b-b997f2234de6",
+          "itemId": "demo-cool-bottom-0",
+          "image": "demo:demo-cool-bottom-0",
+          "centerX": 0.64,
+          "centerY": 0.7,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": 4,
+          "flipped": false
+        }
+      ],
+      "source": "demo",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "demo-cool-outfit-1",
+      "name": "Example outfit 10",
+      "brand": "",
+      "category": "Outfit",
+      "colors": "",
+      "material": "",
+      "image": "",
+      "photoHash": "demo-cool-outfit-1",
+      "pieceNames": "",
+      "itemIds": [
+        "demo-cool-top-1",
+        "demo-cool-bottom-0"
+      ],
+      "missingItems": 0,
+      "layers": [
+        {
+          "id": "baebc465-258a-5529-841b-6d3b4dd65679",
+          "itemId": "demo-cool-top-1",
+          "image": "demo:demo-cool-top-1",
+          "centerX": 0.38,
+          "centerY": 0.3,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": -4,
+          "flipped": false
+        },
+        {
+          "id": "4f47be37-aa48-5d67-af9b-140b68227e20",
+          "itemId": "demo-cool-bottom-0",
+          "image": "demo:demo-cool-bottom-0",
+          "centerX": 0.64,
+          "centerY": 0.7,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": 4,
+          "flipped": false
+        }
+      ],
+      "source": "demo",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "demo-cool-outfit-2",
+      "name": "Example outfit 11",
+      "brand": "",
+      "category": "Outfit",
+      "colors": "",
+      "material": "",
+      "image": "",
+      "photoHash": "demo-cool-outfit-2",
+      "pieceNames": "",
+      "itemIds": [
+        "demo-cool-top-2",
+        "demo-cool-bottom-1"
+      ],
+      "missingItems": 0,
+      "layers": [
+        {
+          "id": "038c0138-7845-5120-8efc-fe6a88e2308a",
+          "itemId": "demo-cool-top-2",
+          "image": "demo:demo-cool-top-2",
+          "centerX": 0.38,
+          "centerY": 0.3,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": -4,
+          "flipped": false
+        },
+        {
+          "id": "384c239d-7f8e-50d7-968f-cdc5aab2a2be",
+          "itemId": "demo-cool-bottom-1",
+          "image": "demo:demo-cool-bottom-1",
+          "centerX": 0.64,
+          "centerY": 0.7,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": 4,
+          "flipped": false
+        }
+      ],
+      "source": "demo",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "demo-cool-outfit-3",
+      "name": "Example outfit 12",
+      "brand": "",
+      "category": "Outfit",
+      "colors": "",
+      "material": "",
+      "image": "",
+      "photoHash": "demo-cool-outfit-3",
+      "pieceNames": "",
+      "itemIds": [
+        "demo-cool-top-3",
+        "demo-cool-bottom-1"
+      ],
+      "missingItems": 0,
+      "layers": [
+        {
+          "id": "4c0e0bcb-f1a4-5402-ae25-1916bd03ecc4",
+          "itemId": "demo-cool-top-3",
+          "image": "demo:demo-cool-top-3",
+          "centerX": 0.38,
+          "centerY": 0.3,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": -4,
+          "flipped": false
+        },
+        {
+          "id": "8ec4dac2-6f5f-5005-9f6a-1ffa6731a305",
+          "itemId": "demo-cool-bottom-1",
+          "image": "demo:demo-cool-bottom-1",
+          "centerX": 0.64,
+          "centerY": 0.7,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": 4,
+          "flipped": false
+        }
+      ],
+      "source": "demo",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "demo-cool-outfit-4",
+      "name": "Example outfit 13",
+      "brand": "",
+      "category": "Outfit",
+      "colors": "",
+      "material": "",
+      "image": "",
+      "photoHash": "demo-cool-outfit-4",
+      "pieceNames": "",
+      "itemIds": [
+        "demo-cool-top-4",
+        "demo-cool-bottom-2"
+      ],
+      "missingItems": 0,
+      "layers": [
+        {
+          "id": "cfd3a89b-1862-5971-b5da-28abccea2c87",
+          "itemId": "demo-cool-top-4",
+          "image": "demo:demo-cool-top-4",
+          "centerX": 0.38,
+          "centerY": 0.3,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": -4,
+          "flipped": false
+        },
+        {
+          "id": "11fd827c-ffc3-51f0-8926-a5a51c8d2c67",
+          "itemId": "demo-cool-bottom-2",
+          "image": "demo:demo-cool-bottom-2",
+          "centerX": 0.64,
+          "centerY": 0.7,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": 4,
+          "flipped": false
+        }
+      ],
+      "source": "demo",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "demo-cool-outfit-5",
+      "name": "Example outfit 14",
+      "brand": "",
+      "category": "Outfit",
+      "colors": "",
+      "material": "",
+      "image": "",
+      "photoHash": "demo-cool-outfit-5",
+      "pieceNames": "",
+      "itemIds": [
+        "demo-cool-top-5",
+        "demo-cool-bottom-2"
+      ],
+      "missingItems": 0,
+      "layers": [
+        {
+          "id": "bcd13811-ff7a-5dbc-8d28-e1fdf58a85ed",
+          "itemId": "demo-cool-top-5",
+          "image": "demo:demo-cool-top-5",
+          "centerX": 0.38,
+          "centerY": 0.3,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": -4,
+          "flipped": false
+        },
+        {
+          "id": "0b3d6a62-945b-59c4-b875-eecf6b92b077",
+          "itemId": "demo-cool-bottom-2",
+          "image": "demo:demo-cool-bottom-2",
+          "centerX": 0.64,
+          "centerY": 0.7,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": 4,
+          "flipped": false
+        }
+      ],
+      "source": "demo",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "demo-cool-outfit-6",
+      "name": "Example outfit 15",
+      "brand": "",
+      "category": "Outfit",
+      "colors": "",
+      "material": "",
+      "image": "",
+      "photoHash": "demo-cool-outfit-6",
+      "pieceNames": "",
+      "itemIds": [
+        "demo-cool-top-6",
+        "demo-cool-bottom-3"
+      ],
+      "missingItems": 0,
+      "layers": [
+        {
+          "id": "a4199fc9-9717-56a7-949a-d0832f3ccda5",
+          "itemId": "demo-cool-top-6",
+          "image": "demo:demo-cool-top-6",
+          "centerX": 0.38,
+          "centerY": 0.3,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": -4,
+          "flipped": false
+        },
+        {
+          "id": "b4dc9774-1158-5f12-968d-510031c1f294",
+          "itemId": "demo-cool-bottom-3",
+          "image": "demo:demo-cool-bottom-3",
+          "centerX": 0.64,
+          "centerY": 0.7,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": 4,
+          "flipped": false
+        }
+      ],
+      "source": "demo",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "demo-cool-outfit-7",
+      "name": "Example outfit 16",
+      "brand": "",
+      "category": "Outfit",
+      "colors": "",
+      "material": "",
+      "image": "",
+      "photoHash": "demo-cool-outfit-7",
+      "pieceNames": "",
+      "itemIds": [
+        "demo-cool-top-7",
+        "demo-cool-bottom-3"
+      ],
+      "missingItems": 0,
+      "layers": [
+        {
+          "id": "e057183c-b9d6-5c17-88fd-3c63a706964b",
+          "itemId": "demo-cool-top-7",
+          "image": "demo:demo-cool-top-7",
+          "centerX": 0.38,
+          "centerY": 0.3,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": -4,
+          "flipped": false
+        },
+        {
+          "id": "79c3abf4-5a78-5d94-9d1c-ed3b8ed68832",
+          "itemId": "demo-cool-bottom-3",
+          "image": "demo:demo-cool-bottom-3",
+          "centerX": 0.64,
+          "centerY": 0.7,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": 4,
+          "flipped": false
+        }
+      ],
+      "source": "demo",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "demo-mild-outfit-0",
+      "name": "Example outfit 17",
+      "brand": "",
+      "category": "Outfit",
+      "colors": "",
+      "material": "",
+      "image": "",
+      "photoHash": "demo-mild-outfit-0",
+      "pieceNames": "",
+      "itemIds": [
+        "demo-mild-top-0",
+        "demo-mild-bottom-0"
+      ],
+      "missingItems": 0,
+      "layers": [
+        {
+          "id": "9a447fbf-a535-53f8-bb96-029f12e21d27",
+          "itemId": "demo-mild-top-0",
+          "image": "demo:demo-mild-top-0",
+          "centerX": 0.38,
+          "centerY": 0.3,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": -4,
+          "flipped": false
+        },
+        {
+          "id": "30cc8162-deb3-5b9e-915f-4b8ba0726863",
+          "itemId": "demo-mild-bottom-0",
+          "image": "demo:demo-mild-bottom-0",
+          "centerX": 0.64,
+          "centerY": 0.7,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": 4,
+          "flipped": false
+        }
+      ],
+      "source": "demo",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "demo-mild-outfit-1",
+      "name": "Example outfit 18",
+      "brand": "",
+      "category": "Outfit",
+      "colors": "",
+      "material": "",
+      "image": "",
+      "photoHash": "demo-mild-outfit-1",
+      "pieceNames": "",
+      "itemIds": [
+        "demo-mild-top-1",
+        "demo-mild-bottom-0"
+      ],
+      "missingItems": 0,
+      "layers": [
+        {
+          "id": "4f04bde6-6962-5b46-9d5a-7bd8a133ed4e",
+          "itemId": "demo-mild-top-1",
+          "image": "demo:demo-mild-top-1",
+          "centerX": 0.38,
+          "centerY": 0.3,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": -4,
+          "flipped": false
+        },
+        {
+          "id": "a0afed5a-e642-5fa2-8f19-384b1a80876d",
+          "itemId": "demo-mild-bottom-0",
+          "image": "demo:demo-mild-bottom-0",
+          "centerX": 0.64,
+          "centerY": 0.7,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": 4,
+          "flipped": false
+        }
+      ],
+      "source": "demo",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "demo-mild-outfit-2",
+      "name": "Example outfit 19",
+      "brand": "",
+      "category": "Outfit",
+      "colors": "",
+      "material": "",
+      "image": "",
+      "photoHash": "demo-mild-outfit-2",
+      "pieceNames": "",
+      "itemIds": [
+        "demo-mild-top-2",
+        "demo-mild-bottom-1"
+      ],
+      "missingItems": 0,
+      "layers": [
+        {
+          "id": "4aaa99c5-cf63-5691-89de-e088292b43bb",
+          "itemId": "demo-mild-top-2",
+          "image": "demo:demo-mild-top-2",
+          "centerX": 0.38,
+          "centerY": 0.3,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": -4,
+          "flipped": false
+        },
+        {
+          "id": "c4bc5e7a-2bee-5c3b-a503-3b4c53572bb4",
+          "itemId": "demo-mild-bottom-1",
+          "image": "demo:demo-mild-bottom-1",
+          "centerX": 0.64,
+          "centerY": 0.7,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": 4,
+          "flipped": false
+        }
+      ],
+      "source": "demo",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "demo-mild-outfit-3",
+      "name": "Example outfit 20",
+      "brand": "",
+      "category": "Outfit",
+      "colors": "",
+      "material": "",
+      "image": "",
+      "photoHash": "demo-mild-outfit-3",
+      "pieceNames": "",
+      "itemIds": [
+        "demo-mild-top-3",
+        "demo-mild-bottom-1"
+      ],
+      "missingItems": 0,
+      "layers": [
+        {
+          "id": "8dacbd3f-4293-5736-93a2-52f707838744",
+          "itemId": "demo-mild-top-3",
+          "image": "demo:demo-mild-top-3",
+          "centerX": 0.38,
+          "centerY": 0.3,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": -4,
+          "flipped": false
+        },
+        {
+          "id": "1c0bf765-e8de-5e9f-8a8e-f83824da47b6",
+          "itemId": "demo-mild-bottom-1",
+          "image": "demo:demo-mild-bottom-1",
+          "centerX": 0.64,
+          "centerY": 0.7,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": 4,
+          "flipped": false
+        }
+      ],
+      "source": "demo",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "demo-mild-outfit-4",
+      "name": "Example outfit 21",
+      "brand": "",
+      "category": "Outfit",
+      "colors": "",
+      "material": "",
+      "image": "",
+      "photoHash": "demo-mild-outfit-4",
+      "pieceNames": "",
+      "itemIds": [
+        "demo-mild-top-4",
+        "demo-mild-bottom-2"
+      ],
+      "missingItems": 0,
+      "layers": [
+        {
+          "id": "f86c718b-e0d7-5796-bb34-a1efc4280484",
+          "itemId": "demo-mild-top-4",
+          "image": "demo:demo-mild-top-4",
+          "centerX": 0.38,
+          "centerY": 0.3,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": -4,
+          "flipped": false
+        },
+        {
+          "id": "82f2ce82-18d2-5c1a-8c3c-98eb73266a54",
+          "itemId": "demo-mild-bottom-2",
+          "image": "demo:demo-mild-bottom-2",
+          "centerX": 0.64,
+          "centerY": 0.7,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": 4,
+          "flipped": false
+        }
+      ],
+      "source": "demo",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "demo-mild-outfit-5",
+      "name": "Example outfit 22",
+      "brand": "",
+      "category": "Outfit",
+      "colors": "",
+      "material": "",
+      "image": "",
+      "photoHash": "demo-mild-outfit-5",
+      "pieceNames": "",
+      "itemIds": [
+        "demo-mild-top-5",
+        "demo-mild-bottom-2"
+      ],
+      "missingItems": 0,
+      "layers": [
+        {
+          "id": "e1f463eb-d9e6-5aa7-8070-e7a699bac65e",
+          "itemId": "demo-mild-top-5",
+          "image": "demo:demo-mild-top-5",
+          "centerX": 0.38,
+          "centerY": 0.3,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": -4,
+          "flipped": false
+        },
+        {
+          "id": "36c1b79d-eccd-5ef0-b2bb-fe5c1b1df0f4",
+          "itemId": "demo-mild-bottom-2",
+          "image": "demo:demo-mild-bottom-2",
+          "centerX": 0.64,
+          "centerY": 0.7,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": 4,
+          "flipped": false
+        }
+      ],
+      "source": "demo",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "demo-mild-outfit-6",
+      "name": "Example outfit 23",
+      "brand": "",
+      "category": "Outfit",
+      "colors": "",
+      "material": "",
+      "image": "",
+      "photoHash": "demo-mild-outfit-6",
+      "pieceNames": "",
+      "itemIds": [
+        "demo-mild-top-6",
+        "demo-mild-bottom-3"
+      ],
+      "missingItems": 0,
+      "layers": [
+        {
+          "id": "bbbd2dd9-ec12-5f89-aed5-2a045db1fa82",
+          "itemId": "demo-mild-top-6",
+          "image": "demo:demo-mild-top-6",
+          "centerX": 0.38,
+          "centerY": 0.3,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": -4,
+          "flipped": false
+        },
+        {
+          "id": "e4d4fe34-6745-5c29-9528-81fafd670649",
+          "itemId": "demo-mild-bottom-3",
+          "image": "demo:demo-mild-bottom-3",
+          "centerX": 0.64,
+          "centerY": 0.7,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": 4,
+          "flipped": false
+        }
+      ],
+      "source": "demo",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "demo-mild-outfit-7",
+      "name": "Example outfit 24",
+      "brand": "",
+      "category": "Outfit",
+      "colors": "",
+      "material": "",
+      "image": "",
+      "photoHash": "demo-mild-outfit-7",
+      "pieceNames": "",
+      "itemIds": [
+        "demo-mild-top-7",
+        "demo-mild-bottom-3"
+      ],
+      "missingItems": 0,
+      "layers": [
+        {
+          "id": "8c59a808-23b6-583e-8ea7-25ee86a2d7cc",
+          "itemId": "demo-mild-top-7",
+          "image": "demo:demo-mild-top-7",
+          "centerX": 0.38,
+          "centerY": 0.3,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": -4,
+          "flipped": false
+        },
+        {
+          "id": "84592d06-7209-5cf5-bb17-09d295b7ac5a",
+          "itemId": "demo-mild-bottom-3",
+          "image": "demo:demo-mild-bottom-3",
+          "centerX": 0.64,
+          "centerY": 0.7,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": 4,
+          "flipped": false
+        }
+      ],
+      "source": "demo",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "demo-hot-outfit-0",
+      "name": "Example outfit 25",
+      "brand": "",
+      "category": "Outfit",
+      "colors": "",
+      "material": "",
+      "image": "",
+      "photoHash": "demo-hot-outfit-0",
+      "pieceNames": "",
+      "itemIds": [
+        "demo-hot-top-0",
+        "demo-hot-bottom-0"
+      ],
+      "missingItems": 0,
+      "layers": [
+        {
+          "id": "f531f14a-7fda-5b26-a8f3-a6ad36872f98",
+          "itemId": "demo-hot-top-0",
+          "image": "demo:demo-hot-top-0",
+          "centerX": 0.38,
+          "centerY": 0.3,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": -4,
+          "flipped": false
+        },
+        {
+          "id": "a9517553-7e90-53a7-8454-5d938bd6186d",
+          "itemId": "demo-hot-bottom-0",
+          "image": "demo:demo-hot-bottom-0",
+          "centerX": 0.64,
+          "centerY": 0.7,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": 4,
+          "flipped": false
+        }
+      ],
+      "source": "demo",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "demo-hot-outfit-1",
+      "name": "Example outfit 26",
+      "brand": "",
+      "category": "Outfit",
+      "colors": "",
+      "material": "",
+      "image": "",
+      "photoHash": "demo-hot-outfit-1",
+      "pieceNames": "",
+      "itemIds": [
+        "demo-hot-top-1",
+        "demo-hot-bottom-0"
+      ],
+      "missingItems": 0,
+      "layers": [
+        {
+          "id": "0c107c4c-4f94-5655-ae38-d7c07f8f2581",
+          "itemId": "demo-hot-top-1",
+          "image": "demo:demo-hot-top-1",
+          "centerX": 0.38,
+          "centerY": 0.3,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": -4,
+          "flipped": false
+        },
+        {
+          "id": "43c25492-70fb-5b36-8a41-46e4b96f52db",
+          "itemId": "demo-hot-bottom-0",
+          "image": "demo:demo-hot-bottom-0",
+          "centerX": 0.64,
+          "centerY": 0.7,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": 4,
+          "flipped": false
+        }
+      ],
+      "source": "demo",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "demo-hot-outfit-2",
+      "name": "Example outfit 27",
+      "brand": "",
+      "category": "Outfit",
+      "colors": "",
+      "material": "",
+      "image": "",
+      "photoHash": "demo-hot-outfit-2",
+      "pieceNames": "",
+      "itemIds": [
+        "demo-hot-top-2",
+        "demo-hot-bottom-1"
+      ],
+      "missingItems": 0,
+      "layers": [
+        {
+          "id": "52260b97-9317-5000-85cb-98a87d38d598",
+          "itemId": "demo-hot-top-2",
+          "image": "demo:demo-hot-top-2",
+          "centerX": 0.38,
+          "centerY": 0.3,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": -4,
+          "flipped": false
+        },
+        {
+          "id": "cc057a53-c563-56e4-b9a2-73fce4f5fa0e",
+          "itemId": "demo-hot-bottom-1",
+          "image": "demo:demo-hot-bottom-1",
+          "centerX": 0.64,
+          "centerY": 0.7,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": 4,
+          "flipped": false
+        }
+      ],
+      "source": "demo",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "demo-hot-outfit-3",
+      "name": "Example outfit 28",
+      "brand": "",
+      "category": "Outfit",
+      "colors": "",
+      "material": "",
+      "image": "",
+      "photoHash": "demo-hot-outfit-3",
+      "pieceNames": "",
+      "itemIds": [
+        "demo-hot-top-3",
+        "demo-hot-bottom-1"
+      ],
+      "missingItems": 0,
+      "layers": [
+        {
+          "id": "232ff6c4-c49f-5040-9d11-f3c5c7fbc056",
+          "itemId": "demo-hot-top-3",
+          "image": "demo:demo-hot-top-3",
+          "centerX": 0.38,
+          "centerY": 0.3,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": -4,
+          "flipped": false
+        },
+        {
+          "id": "69e39ee0-f4a6-5c99-859c-8830e3344068",
+          "itemId": "demo-hot-bottom-1",
+          "image": "demo:demo-hot-bottom-1",
+          "centerX": 0.64,
+          "centerY": 0.7,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": 4,
+          "flipped": false
+        }
+      ],
+      "source": "demo",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "demo-hot-outfit-4",
+      "name": "Example outfit 29",
+      "brand": "",
+      "category": "Outfit",
+      "colors": "",
+      "material": "",
+      "image": "",
+      "photoHash": "demo-hot-outfit-4",
+      "pieceNames": "",
+      "itemIds": [
+        "demo-hot-top-4",
+        "demo-hot-bottom-2"
+      ],
+      "missingItems": 0,
+      "layers": [
+        {
+          "id": "56bfc319-2017-59cb-9442-b9d6caf266ff",
+          "itemId": "demo-hot-top-4",
+          "image": "demo:demo-hot-top-4",
+          "centerX": 0.38,
+          "centerY": 0.3,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": -4,
+          "flipped": false
+        },
+        {
+          "id": "23723a44-1444-5672-bb44-2a96c1cfd5b7",
+          "itemId": "demo-hot-bottom-2",
+          "image": "demo:demo-hot-bottom-2",
+          "centerX": 0.64,
+          "centerY": 0.7,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": 4,
+          "flipped": false
+        }
+      ],
+      "source": "demo",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "demo-hot-outfit-5",
+      "name": "Example outfit 30",
+      "brand": "",
+      "category": "Outfit",
+      "colors": "",
+      "material": "",
+      "image": "",
+      "photoHash": "demo-hot-outfit-5",
+      "pieceNames": "",
+      "itemIds": [
+        "demo-hot-top-5",
+        "demo-hot-bottom-2"
+      ],
+      "missingItems": 0,
+      "layers": [
+        {
+          "id": "475d6f75-da59-5f37-b381-234b4ffa02fc",
+          "itemId": "demo-hot-top-5",
+          "image": "demo:demo-hot-top-5",
+          "centerX": 0.38,
+          "centerY": 0.3,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": -4,
+          "flipped": false
+        },
+        {
+          "id": "ffb0e1dd-ee42-591f-a98e-6ac4f597cf4b",
+          "itemId": "demo-hot-bottom-2",
+          "image": "demo:demo-hot-bottom-2",
+          "centerX": 0.64,
+          "centerY": 0.7,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": 4,
+          "flipped": false
+        }
+      ],
+      "source": "demo",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "demo-hot-outfit-6",
+      "name": "Example outfit 31",
+      "brand": "",
+      "category": "Outfit",
+      "colors": "",
+      "material": "",
+      "image": "",
+      "photoHash": "demo-hot-outfit-6",
+      "pieceNames": "",
+      "itemIds": [
+        "demo-hot-top-6",
+        "demo-hot-bottom-3"
+      ],
+      "missingItems": 0,
+      "layers": [
+        {
+          "id": "e38f5a8e-b592-5153-9a2d-da79eab50e24",
+          "itemId": "demo-hot-top-6",
+          "image": "demo:demo-hot-top-6",
+          "centerX": 0.38,
+          "centerY": 0.3,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": -4,
+          "flipped": false
+        },
+        {
+          "id": "632bc434-5375-5487-aa7a-7f6fbaa3687e",
+          "itemId": "demo-hot-bottom-3",
+          "image": "demo:demo-hot-bottom-3",
+          "centerX": 0.64,
+          "centerY": 0.7,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": 4,
+          "flipped": false
+        }
+      ],
+      "source": "demo",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "demo-hot-outfit-7",
+      "name": "Example outfit 32",
+      "brand": "",
+      "category": "Outfit",
+      "colors": "",
+      "material": "",
+      "image": "",
+      "photoHash": "demo-hot-outfit-7",
+      "pieceNames": "",
+      "itemIds": [
+        "demo-hot-top-7",
+        "demo-hot-bottom-3"
+      ],
+      "missingItems": 0,
+      "layers": [
+        {
+          "id": "0da8d685-aed9-5bbc-bf99-bc92004724e8",
+          "itemId": "demo-hot-top-7",
+          "image": "demo:demo-hot-top-7",
+          "centerX": 0.38,
+          "centerY": 0.3,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": -4,
+          "flipped": false
+        },
+        {
+          "id": "df305816-c4a9-5401-b08b-cfaeccefa99a",
+          "itemId": "demo-hot-bottom-3",
+          "image": "demo:demo-hot-bottom-3",
+          "centerX": 0.64,
+          "centerY": 0.7,
+          "width": 0.55,
+          "height": 0.55,
+          "rotation": 4,
+          "flipped": false
+        }
+      ],
+      "source": "demo",
+      "updatedAt": "2026-01-01T00:00:00Z"
+    }
+  ],
+  "ratings": {
+    "demo-cold-outfit-0": {
+      "temperatures": [
+        "cold"
+      ],
+      "neutral": false,
+      "rain": "dry-only",
+      "wind": "unknown",
+      "notes": "",
+      "photoHash": "demo-cold-outfit-0"
+    },
+    "demo-cold-outfit-1": {
+      "temperatures": [
+        "cold"
+      ],
+      "neutral": false,
+      "rain": "dry-only",
+      "wind": "unknown",
+      "notes": "",
+      "photoHash": "demo-cold-outfit-1"
+    },
+    "demo-cold-outfit-2": {
+      "temperatures": [
+        "cold"
+      ],
+      "neutral": false,
+      "rain": "dry-only",
+      "wind": "unknown",
+      "notes": "",
+      "photoHash": "demo-cold-outfit-2"
+    },
+    "demo-cold-outfit-3": {
+      "temperatures": [
+        "cold"
+      ],
+      "neutral": false,
+      "rain": "dry-only",
+      "wind": "unknown",
+      "notes": "",
+      "photoHash": "demo-cold-outfit-3"
+    },
+    "demo-cold-outfit-4": {
+      "temperatures": [
+        "cold"
+      ],
+      "neutral": false,
+      "rain": "dry-only",
+      "wind": "unknown",
+      "notes": "",
+      "photoHash": "demo-cold-outfit-4"
+    },
+    "demo-cold-outfit-5": {
+      "temperatures": [
+        "cold"
+      ],
+      "neutral": false,
+      "rain": "dry-only",
+      "wind": "unknown",
+      "notes": "",
+      "photoHash": "demo-cold-outfit-5"
+    },
+    "demo-cold-outfit-6": {
+      "temperatures": [
+        "cold"
+      ],
+      "neutral": false,
+      "rain": "dry-only",
+      "wind": "unknown",
+      "notes": "",
+      "photoHash": "demo-cold-outfit-6"
+    },
+    "demo-cool-outfit-0": {
+      "temperatures": [
+        "cool"
+      ],
+      "neutral": false,
+      "rain": "dry-only",
+      "wind": "unknown",
+      "notes": "",
+      "photoHash": "demo-cool-outfit-0"
+    },
+    "demo-cool-outfit-1": {
+      "temperatures": [
+        "cool"
+      ],
+      "neutral": false,
+      "rain": "dry-only",
+      "wind": "unknown",
+      "notes": "",
+      "photoHash": "demo-cool-outfit-1"
+    },
+    "demo-cool-outfit-2": {
+      "temperatures": [
+        "cool"
+      ],
+      "neutral": false,
+      "rain": "dry-only",
+      "wind": "unknown",
+      "notes": "",
+      "photoHash": "demo-cool-outfit-2"
+    },
+    "demo-cool-outfit-3": {
+      "temperatures": [
+        "cool"
+      ],
+      "neutral": false,
+      "rain": "dry-only",
+      "wind": "unknown",
+      "notes": "",
+      "photoHash": "demo-cool-outfit-3"
+    },
+    "demo-cool-outfit-4": {
+      "temperatures": [
+        "cool"
+      ],
+      "neutral": false,
+      "rain": "dry-only",
+      "wind": "unknown",
+      "notes": "",
+      "photoHash": "demo-cool-outfit-4"
+    },
+    "demo-cool-outfit-5": {
+      "temperatures": [
+        "cool"
+      ],
+      "neutral": false,
+      "rain": "dry-only",
+      "wind": "unknown",
+      "notes": "",
+      "photoHash": "demo-cool-outfit-5"
+    },
+    "demo-cool-outfit-6": {
+      "temperatures": [
+        "cool"
+      ],
+      "neutral": false,
+      "rain": "dry-only",
+      "wind": "unknown",
+      "notes": "",
+      "photoHash": "demo-cool-outfit-6"
+    },
+    "demo-mild-outfit-0": {
+      "temperatures": [
+        "mild"
+      ],
+      "neutral": false,
+      "rain": "dry-only",
+      "wind": "unknown",
+      "notes": "",
+      "photoHash": "demo-mild-outfit-0"
+    },
+    "demo-mild-outfit-1": {
+      "temperatures": [
+        "mild"
+      ],
+      "neutral": false,
+      "rain": "dry-only",
+      "wind": "unknown",
+      "notes": "",
+      "photoHash": "demo-mild-outfit-1"
+    },
+    "demo-mild-outfit-2": {
+      "temperatures": [
+        "mild"
+      ],
+      "neutral": false,
+      "rain": "dry-only",
+      "wind": "unknown",
+      "notes": "",
+      "photoHash": "demo-mild-outfit-2"
+    },
+    "demo-mild-outfit-3": {
+      "temperatures": [
+        "mild"
+      ],
+      "neutral": false,
+      "rain": "dry-only",
+      "wind": "unknown",
+      "notes": "",
+      "photoHash": "demo-mild-outfit-3"
+    },
+    "demo-mild-outfit-4": {
+      "temperatures": [
+        "mild"
+      ],
+      "neutral": false,
+      "rain": "dry-only",
+      "wind": "unknown",
+      "notes": "",
+      "photoHash": "demo-mild-outfit-4"
+    },
+    "demo-mild-outfit-5": {
+      "temperatures": [
+        "mild"
+      ],
+      "neutral": false,
+      "rain": "dry-only",
+      "wind": "unknown",
+      "notes": "",
+      "photoHash": "demo-mild-outfit-5"
+    },
+    "demo-mild-outfit-6": {
+      "temperatures": [
+        "mild"
+      ],
+      "neutral": false,
+      "rain": "dry-only",
+      "wind": "unknown",
+      "notes": "",
+      "photoHash": "demo-mild-outfit-6"
+    },
+    "demo-hot-outfit-0": {
+      "temperatures": [
+        "hot"
+      ],
+      "neutral": false,
+      "rain": "dry-only",
+      "wind": "unknown",
+      "notes": "",
+      "photoHash": "demo-hot-outfit-0"
+    },
+    "demo-hot-outfit-1": {
+      "temperatures": [
+        "hot"
+      ],
+      "neutral": false,
+      "rain": "dry-only",
+      "wind": "unknown",
+      "notes": "",
+      "photoHash": "demo-hot-outfit-1"
+    },
+    "demo-hot-outfit-2": {
+      "temperatures": [
+        "hot"
+      ],
+      "neutral": false,
+      "rain": "dry-only",
+      "wind": "unknown",
+      "notes": "",
+      "photoHash": "demo-hot-outfit-2"
+    },
+    "demo-hot-outfit-3": {
+      "temperatures": [
+        "hot"
+      ],
+      "neutral": false,
+      "rain": "dry-only",
+      "wind": "unknown",
+      "notes": "",
+      "photoHash": "demo-hot-outfit-3"
+    },
+    "demo-hot-outfit-4": {
+      "temperatures": [
+        "hot"
+      ],
+      "neutral": false,
+      "rain": "dry-only",
+      "wind": "unknown",
+      "notes": "",
+      "photoHash": "demo-hot-outfit-4"
+    },
+    "demo-hot-outfit-5": {
+      "temperatures": [
+        "hot"
+      ],
+      "neutral": false,
+      "rain": "dry-only",
+      "wind": "unknown",
+      "notes": "",
+      "photoHash": "demo-hot-outfit-5"
+    },
+    "demo-hot-outfit-6": {
+      "temperatures": [
+        "hot"
+      ],
+      "neutral": false,
+      "rain": "dry-only",
+      "wind": "unknown",
+      "notes": "",
+      "photoHash": "demo-hot-outfit-6"
+    }
+  },
+  "logs": [],
+  "importedAt": "2026-01-01"
+}

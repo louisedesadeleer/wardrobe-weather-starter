@@ -1,0 +1,15 @@
+private/
+outputs/
+.build/
+DerivedData/
+xcuserdata/
+*.xcuserstate
+.DS_Store
+__pycache__/
+.venv/
+.env*
+.openai-key
+*.flows
+*.mobileprovision
+*.p12
+.gstack/

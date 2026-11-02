@@ -1,0 +1,9 @@
+{
+  "city": "Lisbon",
+  "latitude": 38.7223,
+  "longitude": -9.1393,
+  "timezone": "Europe/Lisbon",
+  "start_hour": 9,
+  "top_limit": 1,
+  "bottom_limit": 2
+}
